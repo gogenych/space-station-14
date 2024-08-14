@@ -161,8 +161,6 @@
     damage:
       types:
         Blunt: 8
-    soundHit:
-      collection: MetalThud
   # ss220 crowbar Damage on hit start
   - type: DamageOtherOnHit
     damage:
