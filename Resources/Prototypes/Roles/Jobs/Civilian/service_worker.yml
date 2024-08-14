@@ -3,9 +3,9 @@
   name: job-name-serviceworker
   description: job-description-serviceworker
   playTimeTracker: JobServiceWorker
-   requirements:
-   - !type:OverallPlaytimeRequirement 
-     time: 3600 # SS220-RoleTime 2
+  requirements:
+    - !type:OverallPlaytimeRequirement
+      time: 3600 # SS220-RoleTime
   startingGear: ServiceWorkerGear
   icon: "JobIconServiceWorker"
   supervisors: job-supervisors-service
