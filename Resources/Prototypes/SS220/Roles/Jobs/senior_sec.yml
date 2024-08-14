@@ -8,8 +8,8 @@
       role: JobWarden
       time: 43200 #12 hrs
     - !type:RoleTimeRequirement
-#      role: JobDetective # SS220-RoleTime №2
-#      time: 15400 #4 hrs # SS220-RoleTime №2
+#      role: JobDetective # SS220-RoleTime 2
+#      time: 15400 #4 hrs # SS220-RoleTime 2
     - !type:RoleTimeRequirement
       role: JobSecurityOfficer
       time: 72000 #20 hrs

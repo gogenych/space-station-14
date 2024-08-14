@@ -6,16 +6,16 @@
   requirements:
     - !type:RoleTimeRequirement
       role: Janitor
-      time: 18000 # SS220-RoleTime №2
+      time: 18000 # SS220-RoleTime 2
     - !type:RoleTimeRequirement
       role: Chef
-      time: 18000 # SS220-RoleTime №2
+      time: 18000 # SS220-RoleTime 2
     - !type:RoleTimeRequirement
       role: Botanist
-      time: 18000 # SS220-RoleTime №2
+      time: 18000 # SS220-RoleTime 2
     - !type:RoleTimeRequirement
       role: Bartender
-      time: 18000 # SS220-RoleTime №2
+      time: 18000 # SS220-RoleTime 2
     - !type:DepartmentTimeRequirement
       department: Civilian
       time: 216000 # 60 ч
