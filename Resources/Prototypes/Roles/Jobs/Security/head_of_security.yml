@@ -8,7 +8,7 @@
       department: Security
       time: 180000 # SS220-RoleTime
     - !type:RoleTimeRequirement
-      role: Warden
+      role: JobWarden
       time: 43200 # SS220-RoleTime 2
     - !type:AgeRequirement
       requiredAge: 20
