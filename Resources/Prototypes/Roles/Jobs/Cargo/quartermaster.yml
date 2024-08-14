@@ -7,8 +7,11 @@
     - !type:DepartmentTimeRequirement
       department: Cargo
       time: 108000 # SS220-RoleTime
+    - !type:RoleTimeRequirement
+      role: SalvageSpecialist
+      time: 18000 # SS220-RoleTime №2
     - !type:OverallPlaytimeRequirement
-      time: 180000 # SS220-RoleTime
+      time: 180000 # SS220-RoleTime 
     - !type:AgeRequirement
       requiredAge: 20
     - !type:SpeciesRequirement #SS220-jobbans begin
