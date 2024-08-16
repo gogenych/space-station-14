@@ -25,7 +25,7 @@
     availableModes:
     - SemiAuto
     - FullAuto
-    - burst #ss220 gunmodes 
+    - Burst #ss220 gunmodes 
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/smg.ogg
   - type: ChamberMagazineAmmoProvider
